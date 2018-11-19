@@ -1,0 +1,24 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+table {
+    border-spacing: 0.5rem;
+  }
+
+th{
+    color: yellowgreen;
+}
+
+tr{
+    color: blue;
+    font-size: 15px;
+}
+
+.top{
+    color: orange;
+}
+
+.left:hover{
+    text-align: right;
+}
